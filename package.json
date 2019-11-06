@@ -1,0 +1,24 @@
+{
+  "name": "@arbetsmyra/readme-template",
+  "version": "0.0.0",
+  "description": "Arbetsmyra's README template",
+  "main": "README.md",
+  "scripts": {
+    "test": "return 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbetsmyra/README-template.git"
+  },
+  "keywords": [
+    "readme-template",
+    "markdown",
+    "arbetsmyra"
+  ],
+  "author": "Anthon <anthon.kendel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arbetsmyra/README-template/issues"
+  },
+  "homepage": "https://github.com/arbetsmyra/README-template#readme"
+}
