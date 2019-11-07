@@ -4,9 +4,9 @@ Arbetsmyra's README template
 
 _Do not forget to update the links in the shields. Check [shields.io](https://shields.io/) for more alternatives._
 
-![latest git version](https://img.shields.io/github/v/tag/arbetsmyra/readme-template?label=version)
-![latest npm version](https://img.shields.io/npm/v/@arbetsmyra/readme-template)
-![license](https://img.shields.io/github/license/arbetsmyra/readme-template)
+[![latest git version](https://img.shields.io/github/v/tag/arbetsmyra/readme-template?label=version)](https://github.com/arbetsmyra/README-template)
+[![latest npm version](https://img.shields.io/npm/v/@arbetsmyra/readme-template)](https://www.npmjs.com/package/@arbetsmyra/readme-template)
+[![license](https://img.shields.io/github/license/arbetsmyra/readme-template)](https://github.com/arbetsmyra/eslint-config/blob/master/LICENSE)
 
 ## Installation
 
