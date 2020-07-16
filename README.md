@@ -2,8 +2,6 @@
 
 Arbetsmyra's README template
 
-_Do not forget to update the shields. Check [shields.io](https://shields.io/) for more alternatives._
-
 [![latest git version](https://img.shields.io/github/v/tag/arbetsmyra/README-template?label=version)](https://github.com/arbetsmyra/README-template)
 [![latest npm version](https://img.shields.io/npm/v/@arbetsmyra/README-template)](https://www.npmjs.com/package/@arbetsmyra/README-template)
 [![license](https://img.shields.io/github/license/arbetsmyra/README-template)](https://github.com/arbetsmyra/README-template/blob/master/LICENSE)
